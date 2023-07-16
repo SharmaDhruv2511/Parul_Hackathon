@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292850941332",
+    "project_id": "puhackathon-e4d93",
+    "storage_bucket": "puhackathon-e4d93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292850941332:android:8ddbdb4b7f928890f4e381",
+        "android_client_info": {
+          "package_name": "com.example.pu_hack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292850941332-c5846f6gv42lh392j6005543o8flfae2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pu_hack",
+            "certificate_hash": "d44f05c95eaa7f559fec27efd749f69fe6e71ad2"
+          }
+        },
+        {
+          "client_id": "292850941332-a0tgvjis27356u80aii4gqm5opdotp2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7PVQRYrIa5PeZ5Php0WBOdiWyNFaNG2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292850941332-a0tgvjis27356u80aii4gqm5opdotp2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
